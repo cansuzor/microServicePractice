@@ -1,2 +1,2 @@
-# microServicePractice
-practicing a sample microservice
+# springBootCrudApplication
+practicing a sample microservice with springboot crud 
