@@ -1,0 +1,5 @@
+spring:
+  data:
+      mongodb:
+      uri: ac-qdeqzpg-shard-00-00.ns4ezmu.mongodb.net:27017
+      database: Candidates
